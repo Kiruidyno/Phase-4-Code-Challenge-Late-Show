@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rails Code Challenge - Sweets Vendors
 
 For this assessment, you'll be working with a vendors and sweets domain.
@@ -220,3 +221,6 @@ the appropriate HTTP status code:
   "error": "VendorSweet not found"
 }
 ```
+=======
+# Phase-4-Code-Challenge-Late-Show
+>>>>>>> origin/main
